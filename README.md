@@ -3,8 +3,8 @@
 **Course:** MIT 8103 — Advanced Database Systems  
 **Assessment:** Individual Practical Database Portfolio (40 marks)  
 **Case study:** Proposed Training and Learner Management System for Olaham Academy  
-**Student:** [Your full name]  
-**Matriculation number:** [Your matriculation number]  
+**Student:** Hamid Akanbi   
+**Email:** h.akanbi9301@miva.edu.ng  
 **Academic session:** 2026/2027
 
 ## Overview
@@ -14,7 +14,6 @@ This repository contains practical evidence and documentation for five database 
 ## Portfolio contents
 
 | Folder | Activity | Evidence |
-| --- | --- | --- |
 | `Portfolio-1-Database-Design/` | Database Design and Modelling | PostgreSQL schema, ER diagram, sample records, constraints, normalisation and README |
 | `Portfolio-2-Query-Optimisation/` | Query Processing and Optimisation | SQL queries, 100,000 synthetic benchmark events, execution plans, index and performance analysis |
 | `Portfolio-3-Transactions-Concurrency/` | Transactions and Concurrency | COMMIT, ROLLBACK, isolation and row-locking demonstrations, screenshots and README |
@@ -47,15 +46,12 @@ Screenshots and output files document the operations performed. No passwords or 
 
 The lecturer requires a **2–3 page final documentation report uploaded to the LMS**, including the case study, all five portfolio activities, a working GitHub link, screenshots/evidence, individual technical reflection, references and an AI-use declaration where applicable. The final Word/PDF report is a **separate LMS submission**; this repository-level README is its navigation page, not a substitute for that report.
 
-**GitHub repository URL:** [Insert the actual repository URL]  
-**Assessor access:** [Confirm that the assessor has access to this private repository before submission]
+**GitHub repository URL:** https://github.com/akanbi-labs
+**Assessor access:** Open 
 
-## Individual reflection
 
-[Describe in your own words the principal design decision, technical challenge, how you resolved it, and what you learned. Verify that this accurately reflects your work.]
 
-## References and AI use
-
+## References 
 - PostgreSQL documentation: https://www.postgresql.org/docs/
 - MongoDB documentation: https://www.mongodb.com/docs/
 - Course assessment brief: *MIT 8103 Advanced Database Systems, 2026/2027 First Semester Continuous Assessment*.
